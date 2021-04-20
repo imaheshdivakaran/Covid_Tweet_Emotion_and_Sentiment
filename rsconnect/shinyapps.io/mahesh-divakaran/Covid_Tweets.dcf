@@ -1,0 +1,12 @@
+name: Covid_Tweets
+title: Covid_Tweets
+username:
+account: mahesh-divakaran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3871532
+bundleId: 4491361
+url: https://mahesh-divakaran.shinyapps.io/Covid_Tweets/
+when: 1618849368.71874
+asMultiple: FALSE
+asStatic: FALSE
